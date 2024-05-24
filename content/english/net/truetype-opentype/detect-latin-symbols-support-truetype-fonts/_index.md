@@ -11,7 +11,7 @@ url: /net/truetype-opentype/detect-latin-symbols-support-truetype-fonts/
 Hey there! If you've landed here, you're probably looking to learn how to detect Latin symbol support in TrueType fonts using Aspose.Font for .NET. Whether you're building a text-heavy application or just need to ensure your chosen fonts support specific characters, this guide is here to help. We'll break down the process step-by-step, making it easy for you to follow along. By the end of this tutorial, you'll be able to check any TrueType font for Latin character support effortlessly. So, let's get started!
 ## Prerequisites
 Before diving in, make sure you have the following:
-- Aspose.Font for .NET: You can download it from the [official Aspose releases page](https://releases.aspose.com/font/net/).
+- Aspose.Font for .NET: You can download it from the [Aspose releases page](https://releases.aspose.com/font/net/).
 - .NET Development Environment: Visual Studio or any compatible IDE will do the trick.
 - Basic Knowledge of C#: Familiarity with C# and the .NET framework.
 - Font File: A TrueType font file, such as `Montserrat-Regular.ttf`.

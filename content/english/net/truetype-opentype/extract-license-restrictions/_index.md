@@ -11,7 +11,7 @@ url: /net/truetype-opentype/extract-license-restrictions/
 Hey there! If you're a developer working with fonts in .NET applications, understanding license restrictions embedded in font files is crucial. This comprehensive guide will walk you through extracting license restrictions from TrueType fonts using Aspose.Font for .NET. Whether you're ensuring compliance with font licensing or just curious about the permissions of the fonts you're using, we've got you covered. By the end of this tutorial, you'll be able to check any TrueType font for its license restrictions easily. Ready to dive in? Let's get started!
 ## Prerequisites
 Before we jump into the code, make sure you have the following:
-- Aspose.Font for .NET: Download it from the [official Aspose releases page](https://releases.aspose.com/font/net/).
+- Aspose.Font for .NET: Download it from the [Aspose releases page](https://releases.aspose.com/font/net/).
 - .NET Development Environment: Visual Studio or any other compatible IDE.
 - Basic Knowledge of C#: Familiarity with C# programming and the .NET framework.
 - Font File: A TrueType font file, such as `Montserrat-Regular.ttf`.

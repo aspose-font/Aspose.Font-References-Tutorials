@@ -87,9 +87,9 @@ In this tutorial, we've covered how to get font metrics using Aspose.Font for .N
 ### 1. Can I use Aspose.Font for .NET with any font file format?
 Yes, Aspose.Font for .NET supports various font formats such as TrueType (TTF), OpenType (OTF), and more.
 ### 2. Is there a free trial available for Aspose.Font for .NET?
-Yes, you can get a free trial of Aspose.Font for .NET from the [official website](https://releases.aspose.com/).
+Yes, you can get a free trial of Aspose.Font for .NET from the [website](https://releases.aspose.com/).
 ### 3. How can I access support for Aspose.Font for .NET?
-You can access support for Aspose.Font for .NET through the [official forum](https://forum.aspose.com/c/font/41).
+You can access support for Aspose.Font for .NET through the [forum](https://forum.aspose.com/c/font/41).
 ### 4. Can I purchase a temporary license for Aspose.Font for .NET?
 Yes, you can purchase a temporary license from the [Aspose store](https://purchase.aspose.com/temporary-license/).
 ### 5. Is there documentation available for Aspose.Font for .NET?
