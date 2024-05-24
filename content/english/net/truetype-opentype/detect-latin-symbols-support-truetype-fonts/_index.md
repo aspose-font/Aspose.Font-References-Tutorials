@@ -81,7 +81,7 @@ else
 ```
 ## Conclusion
 And that's it! You've successfully learned how to detect Latin symbol support in TrueType fonts using Aspose.Font for .NET. This guide has taken you through the essential steps needed to work with fonts in your .NET applications. With this knowledge, you can ensure that your applications support the characters you need, enhancing the overall user experience.
-## FAQs
+## FAQ's
 ### 1. What is Aspose.Font for .NET?
 Aspose.Font for .NET is a powerful API that allows developers to work with font files, enabling font loading, editing, and saving within .NET applications.
 ### 2. Can I work with other font formats using Aspose.Font for .NET?

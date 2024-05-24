@@ -83,7 +83,7 @@ if (glIndex != 0)
 ```
 ## Conclusion
 In this tutorial, we've covered how to get font metrics using Aspose.Font for .NET. By following the step-by-step guide and understanding the prerequisites, you can efficiently work with fonts in your .NET applications using Aspose.Font API.
-## FAQs
+## FAQ's
 ### 1. Can I use Aspose.Font for .NET with any font file format?
 Yes, Aspose.Font for .NET supports various font formats such as TrueType (TTF), OpenType (OTF), and more.
 ### 2. Is there a free trial available for Aspose.Font for .NET?

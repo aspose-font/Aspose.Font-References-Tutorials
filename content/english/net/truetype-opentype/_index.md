@@ -16,5 +16,6 @@ Learn how to extract license restrictions from TrueType fonts using Aspose.Font 
 ### [Get Font Metrics in Aspose.Font for .NET](./get-font-metrics/)
 Learn how to get font metrics using Aspose.Font for .NET. Step-by-step guide with code examples. Prerequisites and FAQs included.
 ### [Load TrueType Fonts in Aspose.Font for .NET](./load-truetype-fonts/)
-### [Rendering Text using Aspose.Font for .NET](./rendering-text/)
+Learn how to load and work with TrueType fonts in .NET using Aspose.Font. Step-by-step guide included. Perfect for developers looking to enhance their apps.
 ### [Save TTF to Disc using Aspose.Font for .NET](./save-ttf-to-disc/)
+Learn how to save TTF fonts to disk using Aspose.Font for .NET. Follow our step-by-step guide for seamless font management in your .NET applications.

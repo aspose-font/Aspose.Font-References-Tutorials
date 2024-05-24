@@ -101,7 +101,7 @@ else
 ```
 ## Conclusion
 And there you have it! You've successfully learned how to extract license restrictions from TrueType fonts using Aspose.Font for .NET. This guide has taken you through the essential steps needed to work with fonts in your .NET applications, ensuring you comply with licensing requirements. With this knowledge, you can confidently manage fonts in your projects, knowing you're adhering to legal guidelines.
-## FAQs
+## FAQ's
 ### 1. What is Aspose.Font for .NET?
 Aspose.Font for .NET is a powerful API that allows developers to work with font files, enabling font loading, editing, and saving within .NET applications.
 ### 2. Can I work with other font formats using Aspose.Font for .NET?
