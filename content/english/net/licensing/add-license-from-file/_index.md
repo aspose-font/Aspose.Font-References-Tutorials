@@ -34,6 +34,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Aspose.Font;
 ```
 
 Import the required namespace to access the Aspose.Font functionalities within your .NET project.

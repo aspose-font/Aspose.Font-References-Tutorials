@@ -24,6 +24,7 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Aspose.Font;
 ```
 Now, let's proceed with the steps to add a license from a stream in Aspose.Font for .NET.
 ## Step 1: Define Data Directory
