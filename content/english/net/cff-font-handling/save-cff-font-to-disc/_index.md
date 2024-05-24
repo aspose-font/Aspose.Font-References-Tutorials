@@ -65,7 +65,7 @@ cffFont.Save(outputFile);
 ```
 ## Conclusion
 Congratulations! You’ve successfully learned how to load and save CFF fonts using Aspose.Font for .NET. This tutorial covered the essential steps needed to manipulate font data in your .NET applications, empowering you to handle font files with confidence. Whether you're developing a desktop application or a web service, Aspose.Font for .NET provides the tools you need to work with various font formats seamlessly.
-## FAQs
+## FAQ's
 ### 1. What is a CFF Font?
 A Compact Font Format (CFF) font is a font format used primarily in PostScript and PDF documents. It provides compact storage and high-quality rendering.
 ### 2. Can I use Aspose.Font for .NET with other font formats?

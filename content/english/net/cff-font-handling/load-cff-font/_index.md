@@ -98,7 +98,7 @@ if (charStringsTable != null)
 This snippet accesses the CharStrings table and prints each glyph name along with its data, giving you a deeper understanding of the font’s structure.
 ## Conclusion
 Congratulations! You've successfully learned how to load and handle CFF fonts using Aspose.Font for .NET. By following these steps, you can easily integrate custom fonts into your .NET applications, enhancing their visual appeal and functionality. Whether you’re working on digital design projects, developing software, or anything in between, mastering font handling is a valuable skill. Happy coding!
-## FAQs
+## FAQ's
 ### Q1: Can I use Aspose.Font for .NET with other font formats?
 Yes, Aspose.Font for .NET supports various font formats including TrueType, OpenType, and Type1.
 ### Q2: Where can I get a free trial of Aspose.Font for .NET?
