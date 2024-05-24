@@ -101,7 +101,7 @@ if (glIndex != 0)
 This snippet gets the glyph index for 'A', retrieves the glyph using this index, and prints its metrics, including bounding box and width.
 ## Conclusion
 Congratulations! You've successfully learned how to get font metrics using Aspose.Font for .NET. By following these steps, you can easily extract and manipulate font information in your applications. This tutorial should provide a solid foundation for more advanced font operations. Happy coding!
-## FAQs
+## FAQ's
 ### Q1: Can I use Aspose.Font for .NET with other font formats?
 Yes, Aspose.Font for .NET supports various font formats including TrueType, OpenType, Type1, and more.
 ### Q2: Where can I get a free trial of Aspose.Font for .NET?

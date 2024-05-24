@@ -97,7 +97,7 @@ if (charStringsTable != null)
 This snippet accesses the CharStrings table and prints each glyph name along with its data.
 ## Conclusion
 There you have it! You've successfully learned how to load Type 1 fonts using Aspose.Font for .NET. By following these steps, you can easily integrate font handling into your .NET applications, opening up a world of possibilities for your projects. Whether you're developing for print, digital design, or any other purpose, handling fonts has never been easier. Happy coding!
-## FAQs
+## FAQ's
 ### Q1: Can I use Aspose.Font for .NET with other font formats?
 Absolutely! Aspose.Font for .NET supports various font formats including TrueType, OpenType, and Type1.
 ### Q2: Where can I get a free trial of Aspose.Font for .NET?

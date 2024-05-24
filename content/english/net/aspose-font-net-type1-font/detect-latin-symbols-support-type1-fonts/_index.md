@@ -69,7 +69,7 @@ else
 ```
 ## Conclusion
 There you have it! By following these steps, you can easily detect whether a Type 1 font supports Latin symbols using Aspose.Font for .NET. This process is straightforward and ensures you can verify font capabilities quickly. Whether you're a developer working on font management software or just curious about font properties, this guide has you covered.
-## FAQs
+## FAQ's
 ###  What is Aspose.Font for .NET?
 Aspose.Font for .NET is a powerful library for working with different font formats within .NET applications. It supports various font types including TrueType, CFF, OpenType, and Type 1 fonts.
 ### How can I get a free trial of Aspose.Font for .NET?
